@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Biometric Attendance</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login\n</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="check_in">Check In</string>
+    <string name="check_out">Check Out</string>
+    <string name="checkout">Check Out</string>
+    <string name="view_attendance">View Attendance</string>
+</resources>
